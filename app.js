@@ -1,5 +1,5 @@
-const express = require('express');
-const Server = require('./models/server');
+const express = require("express");
+const Server = require("./models/server");
 
 const app = express();
 
